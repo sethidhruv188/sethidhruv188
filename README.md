@@ -59,23 +59,3 @@ I am passionate about **AI/ML**, **Software Engineering**, and building impactfu
 
 * **President, Computer Science Club @ Middlesex College**
   * Led technical workshops for 120+ members and hosted career workshops resulting in 15+ internship placements.
-  * 
-  ### 📊 My GitHub Stats
-
-
--->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sethidhruv188&show_icons=true&theme=tokyonight" alt="Dhruv Sethi's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethidhruv188&layout=compact&theme=tokyonight" alt="Dhruv Sethi's Top Languages"/>
-</p>
-
----
-
-### 💻 LeetCode Stats
-
-
-<p align="center">
-  <img src="https.github-readme-stats.vercel.app/api/top-langs/?username=sethidhruv188&layout=compact&theme=tokyonight" alt="Dhruv Sethi's Top Languages"/>
-</p>
-
----
